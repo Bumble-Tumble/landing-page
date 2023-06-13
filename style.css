@@ -1,0 +1,164 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    
+}
+.header {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.headlink {
+    display: flex;
+    justify-content: space-around;
+    padding: 8px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color:gray;
+    
+}
+
+.link {
+    display: flex;
+    gap: 20px;
+}
+
+button {
+    width: 80px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 5px;
+    margin: 0;
+    border: 0;
+    padding: 5px;
+}
+
+.buttext {
+    width: 300px;
+    
+    
+}
+
+.placeholder {
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    padding: 80px;
+}
+
+.container {
+    display: flex;
+   justify-content: center;
+   padding: 80px;
+   gap: 20px;
+}
+
+.joob {
+font-size: 48px;
+font-weight: 700;
+color: #F9FAF8;
+}
+
+.uptext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.lo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.random {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+}
+
+.cards {
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+    padding: 25px;
+    margin-bottom: 40px;
+    
+}
+
+.box {
+    border: 1px solid #3882F6;
+    padding: 50px;
+    display: flex;
+    border-radius: 15px;
+}
+
+.quotebox {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 80px;
+    
+}
+
+.quote {
+    font-style: light italic;
+    font-size: 36px;
+    color: #1F2937;
+    
+}
+
+.credit {
+    font-weight: 700;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.action {
+    display: flex;
+    background-color: #3882F6;
+    padding: 30px;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+.footer {
+    display: flex;
+    margin-top: auto;
+    background-color: #1F2937;
+    justify-content: center;
+    padding: 16px;
+}
+
+.actiontext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.actiontext2 {
+    color: #E5E7EB;
+}
+
+.actbut {
+    border: 1px solid #E5E7EB;
+    border-radius: 10px;
+    
+
+}
+
+.actionspace {
+    display: flex;
+    justify-content: center;
+    padding: 64px;
+}
